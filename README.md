@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @eomereji Ezemonye Omereji
-- 👀 I’m interested in Data Analysis and Web/Python/Django Development.
-- 🌱 I’m currently developing a Web App
-- 💞️ I’m looking to collaborate on Python/Django/PostgreSQL
-- 📫 How to reach me ...
+- 👀 I love Data Analysis and interested in related jobs.
+- 🌱 I’m currently using Pyhthon, SQL, Excel, and learning Tableau, Tidyverse, R. 
+- 💞️ I’m looking to collaborate on related projects.
+- 📫 How to reach me ..
 
 <!---
 eomereji/eomereji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
