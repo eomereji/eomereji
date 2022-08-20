@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @eomereji Ezemonye Omereji
 - 👀 I love Data Analysis and interested in related jobs.
-- 🌱 I’m currently using Pyhthon, SQL, Excel, and learning Tableau, Tidyverse, R. 
+- 🌱 I’m currently using Python, SQL, Excel, and learning Tableau, Tidyverse, R for Data Analytics. 
 - 💞️ I’m looking to collaborate on related projects.
-- 📫 How to reach me ..
+- 📫 I am on twitter @eomereji
 
 <!---
 eomereji/eomereji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
