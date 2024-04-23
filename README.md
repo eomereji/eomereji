@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eomereji Ezemonye Omereji
-- 👀 I love Data Analysis and interested in related jobs.
+- 👀 I love Data Analysis and Engineering, and interested in related projects.
 - 🌱 I’m currently using Python, SQL, Excel, and learning Tableau, R for Data Analysis. 
 - 📫 I am on twitter @eomereji
 
